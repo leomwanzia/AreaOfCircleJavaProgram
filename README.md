@@ -16,12 +16,12 @@ Compile the Java Program:
 
 sh
 Copy code
-javac AreaOfCircle.java
+javac com.leo.AreaOfCircle.java
 Run the Program:
 
 sh
 Copy code
-java AreaOfCircle
+java com.leo.AreaOfCircle
 View the Output:
 The program will display the area of the circle based on the radius provided in the code.
 
@@ -30,7 +30,7 @@ plaintext
 Copy code
 The area of the circle is: 78.53981633974483
 Customization
-To calculate the area for a different radius, modify the radius variable in the AreaOfCircle.java file:
+To calculate the area for a different radius, modify the radius variable in the com.leo.AreaOfCircle.java file:
 
 ##java
 Copy code
